@@ -1,18 +1,15 @@
-name: Generate Snake Animation
+name: Generate Snake 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual runs
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: SamiduSamarasinghe
-        outputs:
-          snake: ${{ steps.snk.outputs.snake }}
-      - uses: crazy-max/ghaction-github-pages@v3
+          github_user_name: SamiduSamarasinghe  # Replace with your username
+      - uses: actions/upload-pages-artifact@v1
         with:
-          target_branch: output
-          build_dir: dist
+          path: dist/
