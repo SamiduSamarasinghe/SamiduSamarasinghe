@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samidusamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="samidusamarasinghe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samidusamarasinghe" alt="samidusamarasinghe" /></a> </p>
-
 - 🔭 I’m currently working on [MyWeb](https://github.com/SamiduSamarasinghe/MyWeb)
 
 - 🌱 I’m currently learning **Emerging Technology | Machine Learning**
