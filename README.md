@@ -64,7 +64,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samidusamarasinghe&" alt="samidusamarasinghe" /></p>
 <br>
 
-![Snake animation](https://github.com/SamiduSamarasinghe/SamiduSamarasinghe/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/SamiduSamarasinghe/SamiduSamarasinghe/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
