@@ -1,15 +1,18 @@
-name: Generate Snake 
+name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:     # Allows manual runs
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:      # Lets you trigger it manually
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
-          github_user_name: SamiduSamarasinghe  # Replace with your username
-      - uses: actions/upload-pages-artifact@v1
+          github_user_name: SamiduSamarasinghe  # Your username
+          svg_path: dist/github-contribution-grid-snake.svg
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v1
         with:
           path: dist/
