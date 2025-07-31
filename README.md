@@ -60,6 +60,7 @@
 <!-- GitHub Stats -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SamiduSamarasinghe&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
+  <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiduSamarasinghe&layout=compact" alt="Top Languages" width="45%" />
 </p>
 
