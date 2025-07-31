@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Emerging Technology | Machine Learning**
 
-- 👯 I’m looking to collaborate on [TutionManagerApp](https://github.com/LakshanWC/TuitionManagerApp)
-
 - 👨‍💻 All of my projects are available at [https://github.com/SamiduSamarasinghe](https://github.com/SamiduSamarasinghe)
 
 - 💬 Ask me about **Java**
@@ -53,21 +51,28 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/ard-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
 
+<!-- Animated GIF on the right -->
+<img align="right" width="280" alt="Working Bear" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamiduSamarasinghe&show_icons=true&locale=en&layout=compact" alt="SamiduSamarasinghe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samidusamarasinghe&show_icons=true&locale=en" alt="samidusamarasinghe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samidusamarasinghe&" alt="samidusamarasinghe" /></p>
-<br>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/SamiduSamarasinghe/SamiduSamarasinghe/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiduSamarasinghe&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiduSamarasinghe&layout=compact" alt="Top Languages" />
 </p>
+
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiduSamarasinghe" alt="Streak Stats" width="48%" />
+</p>
+
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
