@@ -59,13 +59,13 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiduSamarasinghe&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiduSamarasinghe&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiduSamarasinghe&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiduSamarasinghe&layout=compact" alt="Top Languages" width="45%" />
 </p>
 
 <!-- Top Languages -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiduSamarasinghe" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiduSamarasinghe" alt="Streak Stats" width="50%" />
 </p>
 
 <!-- Snake Contribution Animation -->
