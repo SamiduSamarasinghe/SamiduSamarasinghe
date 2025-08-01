@@ -68,6 +68,9 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samidusamarasinghe" alt="Streak Stats" width="50%" />
 </p>
+<br><br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=SamiduSamarasinghe&theme=react-dark&hide_border=true&area=true)
 
 <!-- Snake Contribution Animation -->
 
